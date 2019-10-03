@@ -17,6 +17,6 @@ Login Test Case with Mobile Number and OTP
 15. In the case of OTP is like Alphanumeric, checks OTP field allows case senstive or not
 16. To check whether user can able to type more than or less than maximum digits in OTP field
 17. To verifiy that the OTP is receiving only on the Registered Mobile Number
-18. To check how many OTP message for First time generating by the user
+18. To check how many OTP message for First time generating by the user.
 19. To verify the Resend, Cancel and Submit buttons functionality works properly
 20. Verify once the user used one OTP on one time, after that it should not worked for process
