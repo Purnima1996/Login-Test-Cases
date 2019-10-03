@@ -1,0 +1,22 @@
+Login Test Case with Mobile Number and OTP
+
+1. To Verify whether the user complete with 10 digit Mobile Number or below with Valid OTP
+2. To check with more than a one user generating OTP at same time and enter them OTP of other ones
+3. To check with user trying to login in the Out of network Coverage / network issue situation
+4. To check if the user doesnt have a sufficient mobile Balance to send SMS for OTP
+5. To check when the user generate OTP more than one time, and user should login with last generate OTP code
+6. After entering the valid Mobile number and clicks on Generate OTP button, check how much time it will take to receive OTP by the user
+7. To verify whether the user gets logged in after entering the Valid Mobile Number and Valid OTP
+8. To check the application showing an alert message to enter valid Mobile Number or not, when the user entered Invalid Mobile Number
+9. To check the generated OTP is valid only for limited timeline or not.
+10. To check whether the user getting login with Blank fields
+11. To check whether the user can enter Alphabets and Special Characters in Mobile Number field
+12. To check whether the user enter more than 10 digit Numbers in Mobile Number field
+13. To verify how many times user can Re-Generate the OTP
+14. To verify how much time it will take for second OTP and so on
+15. In the case of OTP is like Alphanumeric, checks OTP field allows case senstive or not
+16. To check whether user can able to type more than or less than maximum digits in OTP field
+17. To verifiy that the OTP is receiving only on the Registered Mobile Number
+18. To check how many OTP message for First time generating by the user
+19. To verify the Resend, Cancel and Submit buttons functionality works properly
+20. Verify once the user used one OTP on one time, after that it should not worked for process
