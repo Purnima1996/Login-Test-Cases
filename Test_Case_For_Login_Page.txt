@@ -20,3 +20,4 @@ Login Test Case with Mobile Number and OTP
 18. To check how many OTP message for First time generating by the user.
 19. To verify the Resend, Cancel and Submit buttons functionality works properly
 20. Verify once the user used one OTP on one time, after that it should not worked for process
+21. When logged in user copy URL and paste in new browser window, it should redirect to Login page
